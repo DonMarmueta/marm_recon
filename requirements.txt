@@ -1,0 +1,22 @@
+# Dependências do Reconhecimento
+assetfinder==0.1.1
+sublist3r==1.0.8
+amass==0.3.3
+dnsrecon==1.0.1
+
+# Dependências Python
+aiohttp==3.11.7
+beautifulsoup4==4.12.3
+click==8.1.7
+packaging==24.1
+tomlkit==0.13.2
+aiosignal==1.3.1
+attrs==23.2.0
+frozenlist==1.5.0
+multidict==6.1.0
+propcache==0.2.0
+yarl==1.18.0
+
+# Outras Ferramentas de Pentest
+nmap==0.0.1  # Pacote Python para interagir com Nmap
+gobuster==1.5.0
